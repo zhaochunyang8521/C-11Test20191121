@@ -34,6 +34,7 @@ public:
 		:MyClass(obj.val,obj.str)
 	{
 
+
 	}
 	~MyClass();
 	MyClass& operator =(const MyClass obj)
